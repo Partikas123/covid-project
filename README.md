@@ -1,0 +1,2 @@
+# covid-project
+bandomasis app
